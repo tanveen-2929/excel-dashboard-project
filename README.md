@@ -1,4 +1,4 @@
-# 📊 Vrinda Store Excel Dashboard 2026
+# 📊 Varinda Store Excel Dashboard 2026
 
 This project is an Excel dashboard that analyzes sales performance, customer behavior, and order data.
 
